@@ -1,0 +1,17 @@
+{
+  "name": "colors-js",
+  "version": "1.0.0",
+  "description": "A small utility to colorize console log messages in Node.js using ANSI escape codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "keywords": [
+    "console",
+    "colors",
+    "logging",
+    "ansi-escape-codes"
+  ]
+}
