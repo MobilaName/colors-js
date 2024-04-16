@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"No tests specified\" && exit 0"
   },
-  "author": "Your Name",
+  "author": "Mikhail Larchanka <mikhail@larchanka.com>",
   "license": "MIT",
   "keywords": [
     "console",
