@@ -1,5 +1,5 @@
 {
-  "name": "colors-js",
+  "name": "@mlarchanka/colors-js",
   "version": "1.0.0",
   "description": "A small utility to colorize console log messages in Node.js using ANSI escape codes.",
   "main": "index.js",
