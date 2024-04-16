@@ -5,7 +5,7 @@
 ## Установка
 
 ```bash
-npm install colorsjs
+npm install @larchanka/colors-js
 ```
 
 ## Использование
@@ -13,7 +13,7 @@ npm install colorsjs
 Импортируйте объект `colorsjs` в ваш JavaScript-файл:
 
 ```javascript
-const colors = require('colorsjs');
+const colors = require('@larchanka/colors-js');
 ```
 
 Объект `colorsjs` содержит различные функции, каждая из которых соответствует определенному цвету или стилю фона.
